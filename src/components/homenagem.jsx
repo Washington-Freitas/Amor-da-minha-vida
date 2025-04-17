@@ -8,8 +8,8 @@ const frases = [
 ];
 
 const legendas = [
-  "Nosso primeiro sorriso juntos 😄",
   "Momentos que não esquecerei 💖",
+  "Nosso primeiro sorriso juntos 😄",
   "Você, minha melhor escolha ✨",
   "O amor mora nesse olhar 👀",
   "Dias incríveis ao seu lado ☀️",
@@ -59,7 +59,7 @@ function Homenagem() {
 </div>
 
 
-        <h1 className="titulo">Minha Homenagem pra Você 💕</h1>
+        <h1 className="titulo">Melhores momentos com meu Amor 💕</h1>
 
         <div className="frases">
           {frases.map((frase, index) => (
