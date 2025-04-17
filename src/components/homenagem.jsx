@@ -1,5 +1,5 @@
 import React from 'react';
-import './Homenagem.css';
+import './homenagem.css';
 
 const frases = [
   "Te amo mais a cada dia ❤️",
