@@ -86,12 +86,6 @@ function Homenagem() {
   ))}
 </div>
 
-
-
-        <div className="qr-code">
-          <p>Escaneie o QR Code com amor 💖</p>
-          <img src="/qr/qr-code.png" alt="QR Code" className="qr-img" />
-        </div>
         <div className="player-container">
         <audio controls autoPlay loop>
         <source src="/msc.mp3" type="audio/mpeg" />
